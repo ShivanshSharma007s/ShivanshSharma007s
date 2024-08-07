@@ -96,7 +96,8 @@
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivanshSharma007s&show_icons=true&theme=vision-friendly-dark" alt="Shivansh Sharma's Top Languages">
 </p>
 
- 
 
-</div>
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
 
