@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/shivanshsh82204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivanshsh82204" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/shivansh-sharma-566623248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivansh-sharma-566623248" height="30" width="40" /></a>
-<a href="https://instagram.com/king_shivansh_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="king_shivansh_sharma" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shivansh_sharma_007s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="king_shivansh_sharma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shivanshom1415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivanshom1415" height="30" width="40" /></a>
 </p>
 
