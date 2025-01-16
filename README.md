@@ -26,6 +26,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <div>
 
+### Consoles:
+| Google |
+|----------|
+| <img src="https://imagedelivery.net/K11gkZF3xaVyYzFESMdWIQ/e10bea5e-9155-4e5f-6453-6a7495d67f00/full" title="Consoles" alt="Consoles" width="160" height="55"/> |
+
 ### OS:
 | Linux | Ubuntu | Kali | Windows | Mint | Blackarch | Garuda | MacOS | Parrot OS | RedHat | Phoenix OS | Android |
 |-------|--------|------|---------|------|-----------|--------|-------|-----------|--------|------------|---------|
