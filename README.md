@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-- 🤝 I’m looking for help with **Research Internships in US, Europe & East Asian Countires**
+- 🤝 I’m looking for help with **Research Collaborations & Internships in US, Europe & East Asian Countires**
 
 - 👨‍💻 All of my projects are available at [https://shivanshsharma007s.github.io/Portfolio-Website/](https://shivanshsharma007s.github.io/Portfolio-Website/)
 
