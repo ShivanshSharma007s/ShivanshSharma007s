@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Sharma</h1>
-<h3 align="center">Passionate & Working on Cyber Security (Pentesting) and Machine Learning Development</h3>
+<h3 align="center">AI/ML Application Developer & Researsher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshsharma007s&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshsharma007s" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shivanshsh82204" target="blank"><img src="https://img.shields.io/twitter/follow/shivanshsh82204?logo=twitter&style=for-the-badge" alt="shivanshsh82204" /></a> </p>
 
-- 🌱 I’m currently learning **EC-Council Cyber Security & Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-- 🤝 I’m looking for help with **Machine Learning Development**
+- 🤝 I’m looking for help with **Research Internships in US, Europe & East Asian Countires**
 
 - 👨‍💻 All of my projects are available at [https://shivanshsharma007s.github.io/Portfolio-Website/](https://shivanshsharma007s.github.io/Portfolio-Website/)
 
