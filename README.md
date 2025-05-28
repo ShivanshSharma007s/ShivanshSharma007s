@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivansh Sharma</h1>
-<h3 align="center">AI/ML Application Developer & Researsher</h3>
+<h3 align="center">Research Intern at University of Vienna, Ex-Intern at Smart Edge - SPH Consultancy & Eservices Pvt. Ltd.</h3>
+<h3 align="center">Top 5 In Google GenAI Exchange Hackathon 2024 Invited to Google Signnature Towers, Gurugram India</h3>
+<h3 align="center">Top 10 in 24- Hour Code Nakashatra Hackathon, Greater Noida, India (offline)</h3>
+<h3 align="center">My Expertise Are Machine Learning, Computer Vision, GenAI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshsharma007s&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshsharma007s" /> </p>
 
@@ -7,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/shivanshsh82204" target="blank"><img src="https://img.shields.io/twitter/follow/shivanshsh82204?logo=twitter&style=for-the-badge" alt="shivanshsh82204" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Computer Vison, GenAI**
 
-- 🤝 I’m looking for help with **Research Collaborations & Internships in US, Europe & East Asian Countires**
+- 🤝 I’m looking for help with **To find funded onsite Research Collaborations & Internships in The USA, Europe & East Asian Countires**
 
 - 👨‍💻 All of my projects are available at [https://shivanshsharma007s.github.io/Portfolio-Website/](https://shivanshsharma007s.github.io/Portfolio-Website/)
 
