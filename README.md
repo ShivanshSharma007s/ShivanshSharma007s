@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shivansh Sharma</h1>
-<h3 align="center">Research Intern at University of Vienna, Austria</h3>
+<h1 align="center">Hi 👋, I'm Shivansh Sharma</h1> 
+<h3 align="center">Right now I am building an Standalone Operating System from Scratch using C/C++</h3>
+<h3 align="center">Ex- Research Intern at University of Vienna, Austria</h3>
 <h3 align="center">Ex-Intern at Smart Edge - SPH Consultancy & Eservices Pvt. Ltd.</h3>
 <h3 align="center">Top 5 In Google GenAI Exchange Hackathon 2024 Invited to Google Signnature Towers, Gurugram India</h3>
 <h3 align="center">Top 10 in 24- Hour Code Nakashatra Hackathon, Greater Noida, India (offline)</h3>
