@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-🚀 I am a **Computer Science Engineer** who loves building things from **low-level OS kernels to high-level GenAI systems**.
+🚀 I am a **Computer Science Engineer** who loves building things from **low-level OS kernels to high-level AI systems**.
 
 - 🔧 Building **TideOS** – a 64-bit standalone OS from scratch (C/C++ + x86_64 ASM)
 - 🤖 Working on **AI, Machine Learning, Computer Vision & GenAI**
