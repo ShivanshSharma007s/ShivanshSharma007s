@@ -41,7 +41,8 @@
 ![API](https://img.shields.io/badge/API-Integration-blue?style=for-the-badge)
 
 ---
-
+## 🧪 Personal Website
+🔗 https://shivanshsharmaportfolio.netlify.app/
 ## 🧪 Featured Projects
 
 ### 🐟 MATASYA (Computer Vision Research)
