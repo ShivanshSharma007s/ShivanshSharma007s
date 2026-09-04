@@ -47,7 +47,7 @@
 🔗 https://shivanshsharmaportfolio.netlify.app/
 ## 🧪 Featured Projects
 
-### 🐟 MCP Based Chatbot with Multi Model and Tools
+### 💻 MCP Based Chatbot with Multi Model and Tools
 > A MCP Client-Server Model with Multi tools integration and API key Generation to access the MCP Server
 🔬 Free Lancing
 
