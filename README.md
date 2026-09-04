@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Sharma</h1>
-<h3 align="center">AI/ML Engineer • GenAI Developer • OS Developer</h3>
+<h3 align="center">Software Engineer with Expertise in AI-ML</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivanshsharma007s&label=Profile%20Views&color=blueviolet&style=flat-square" />
