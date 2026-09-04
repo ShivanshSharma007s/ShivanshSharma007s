@@ -10,10 +10,12 @@
 
 ## 🧠 About Me
 
-🚀 I am a **Computer Science Engineer** who loves building things from **low-level OS kernels to high-level AI systems**.
+🚀 I am a **Software Engineer with Expertise in AI-ML** who loves building things from **low-level OS kernels to high-level AI systems**.
 
+- 🎖️ Awarded by Star Group In Johor Bahru, Malaysia for Best Software
 - 🔧 Building **TideOS** – a 64-bit standalone OS from scratch (C/C++ + x86_64 ASM)
 - 🤖 Working on **AI, Machine Learning, Computer Vision & GenAI**
+- 💼 AI/Data Science Intern @ **Cos Great Trading, Kuala Lumpur, Malaysia**
 - 🌍 Ex-Research Intern @ **University of Vienna, Austria**
 - 💼 Ex-Software Engineer Intern @ **SPH Consultancy**
 - 🏆 Top 5 – **Google GenAI Exchange Hackathon 2024**
@@ -44,6 +46,10 @@
 ## 🧪 Personal Website
 🔗 https://shivanshsharmaportfolio.netlify.app/
 ## 🧪 Featured Projects
+
+### 🐟 MCP Based Chatbot with Multi Model and Tools
+> A MCP Client-Server Model with Multi tools integration and API key Generation to access the MCP Server
+🔬 Free Lancing
 
 ### 🐟 MATASYA (Computer Vision Research)
 > Automated segmentation of 25,000+ fish images using U-Net & YOLOv8  
